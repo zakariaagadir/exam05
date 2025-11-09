@@ -1,14 +1,4 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   bag.hpp                                            :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: fatkeski <fatkeski@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/07/26 19:12:00 by fatkeski          #+#    #+#             */
-/*   Updated: 2025/07/26 19:25:00 by fatkeski         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
+
 
 #pragma once // birden fazla include guard engelleyici -> "Bu dosya bir kez dahil edildikten sonra, aynı dosya ikinci kez include edilirse onu yok say."
 
