@@ -18,7 +18,7 @@
 class set
 {
 	private:
-		searchable_bag& bag;
+		const searchable_bag& bag;
 	public:
 		set() = delete;
 		set(const set& source) = delete;
